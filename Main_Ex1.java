@@ -1,6 +1,6 @@
 package com.example.tp1;
 
-public class Main {
+public class Main_Ex1 {
     public static void main(String[] args) {
         Entreprise ent = new Entreprise();
 
